@@ -1,0 +1,8 @@
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.DTO\bin\Debug\netstandard2.0\AspNet.DTO.deps.json
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.DTO\bin\Debug\netstandard2.0\AspNet.DTO.dll
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.DTO\bin\Debug\netstandard2.0\AspNet.DTO.pdb
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.DTO\obj\Debug\netstandard2.0\AspNet.DTO.AssemblyInfoInputs.cache
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.DTO\obj\Debug\netstandard2.0\AspNet.DTO.AssemblyInfo.cs
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.DTO\obj\Debug\netstandard2.0\AspNet.DTO.dll
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.DTO\obj\Debug\netstandard2.0\AspNet.DTO.pdb
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.DTO\obj\Debug\netstandard2.0\AspNet.DTO.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspNet.DTO\AspNet.DTO.csproj" />
+    <ProjectReference Include="..\AspNetdbContext\AspNetdbContext.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\bin\Debug\netstandard2.0\AspNetdbContext.deps.json
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\bin\Debug\netstandard2.0\AspNetdbContext.dll
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\bin\Debug\netstandard2.0\AspNetdbContext.pdb
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\bin\Debug\netstandard2.0\AspNet.DTO.dll
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\bin\Debug\netstandard2.0\AspNet.DTO.pdb
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.csprojAssemblyReference.cache
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.AssemblyInfoInputs.cache
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.AssemblyInfo.cs
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.csproj.CoreCompileInputs.cache
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.csproj.CopyComplete
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.dll
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNetdbContext\obj\Debug\netstandard2.0\AspNetdbContext.pdb

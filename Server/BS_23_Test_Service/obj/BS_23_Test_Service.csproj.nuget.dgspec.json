@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\BS_23_Test_Service\\BS_23_Test_Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj",
+        "projectName": "AspNet.DTO",
+        "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj",
+        "packagesPath": "C:\\Users\\NybSys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NybSys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.UsersBLL\\AspNet.UsersBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.UsersBLL\\AspNet.UsersBLL.csproj",
+        "projectName": "AspNet.UsersBLL",
+        "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.UsersBLL\\AspNet.UsersBLL.csproj",
+        "packagesPath": "C:\\Users\\NybSys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.UsersBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NybSys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {
+                "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj"
+              },
+              "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj": {
+                "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj",
+        "projectName": "AspNetdbContext",
+        "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj",
+        "packagesPath": "C:\\Users\\NybSys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NybSys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {
+                "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\BS_23_Test_Service\\BS_23_Test_Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\BS_23_Test_Service\\BS_23_Test_Service.csproj",
+        "projectName": "BS_23_Test_Service",
+        "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\BS_23_Test_Service\\BS_23_Test_Service.csproj",
+        "packagesPath": "C:\\Users\\NybSys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\BS_23_Test_Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NybSys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.UsersBLL\\AspNet.UsersBLL.csproj": {
+                "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.UsersBLL\\AspNet.UsersBLL.csproj"
+              },
+              "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj": {
+                "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

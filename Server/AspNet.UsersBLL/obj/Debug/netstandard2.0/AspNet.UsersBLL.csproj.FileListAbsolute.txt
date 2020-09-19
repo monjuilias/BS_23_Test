@@ -1,0 +1,14 @@
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\bin\Debug\netstandard2.0\AspNet.UsersBLL.deps.json
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\bin\Debug\netstandard2.0\AspNet.UsersBLL.dll
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\bin\Debug\netstandard2.0\AspNet.UsersBLL.pdb
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\bin\Debug\netstandard2.0\AspNet.DTO.dll
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\bin\Debug\netstandard2.0\AspNetdbContext.dll
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\bin\Debug\netstandard2.0\AspNet.DTO.pdb
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\bin\Debug\netstandard2.0\AspNetdbContext.pdb
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\obj\Debug\netstandard2.0\AspNet.UsersBLL.csprojAssemblyReference.cache
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\obj\Debug\netstandard2.0\AspNet.UsersBLL.AssemblyInfoInputs.cache
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\obj\Debug\netstandard2.0\AspNet.UsersBLL.AssemblyInfo.cs
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\obj\Debug\netstandard2.0\AspNet.UsersBLL.csproj.CoreCompileInputs.cache
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\obj\Debug\netstandard2.0\AspNet.UsersBLL.csproj.CopyComplete
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\obj\Debug\netstandard2.0\AspNet.UsersBLL.dll
+C:\Users\NybSys\Desktop\Demo_Bstation\BS\Server\AspNet.UsersBLL\obj\Debug\netstandard2.0\AspNet.UsersBLL.pdb
