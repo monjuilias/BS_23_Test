@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {}
+    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {
+    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\AspNet.DTO.csproj",
         "projectName": "AspNet.DTO",
-        "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj",
+        "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\AspNet.DTO.csproj",
         "packagesPath": "C:\\Users\\NybSys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\obj\\",
+        "outputPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

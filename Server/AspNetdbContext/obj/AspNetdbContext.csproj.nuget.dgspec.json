@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj": {}
+    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNetdbContext\\AspNetdbContext.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {
+    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\AspNet.DTO.csproj",
         "projectName": "AspNet.DTO",
-        "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj",
+        "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\AspNet.DTO.csproj",
         "packagesPath": "C:\\Users\\NybSys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\obj\\",
+        "outputPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj": {
+    "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNetdbContext\\AspNetdbContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj",
+        "projectUniqueName": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNetdbContext\\AspNetdbContext.csproj",
         "projectName": "AspNetdbContext",
-        "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\AspNetdbContext.csproj",
+        "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNetdbContext\\AspNetdbContext.csproj",
         "packagesPath": "C:\\Users\\NybSys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNetdbContext\\obj\\",
+        "outputPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNetdbContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -96,8 +96,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {
-                "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Server\\AspNet.DTO\\AspNet.DTO.csproj"
+              "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\AspNet.DTO.csproj": {
+                "projectPath": "C:\\Users\\NybSys\\Desktop\\Demo_Bstation\\BS\\Git_UP\\Server\\AspNet.DTO\\AspNet.DTO.csproj"
               }
             }
           }
